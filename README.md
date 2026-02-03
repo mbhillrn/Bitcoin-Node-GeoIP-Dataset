@@ -6,12 +6,12 @@ Used by [MBCore Dashboard](https://github.com/mbhillrn/Bitcoin-Core-Peer-Map) to
 
 ## Updates
 
-This database is updated periodically with new peer IPs discovered by the community.
+This database may or may not be updated periodically.
 
 ## Data Source
 
 - Geolocation: ip-api.com (free tier, non-commercial)
-- IPs: Collected from Bitcoin Core `getpeerinfo`
+- IPs: Collected from Bitcoin Core `getpeerinfo` from multiple sources.
 
 ## License
 
